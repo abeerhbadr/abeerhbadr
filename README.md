@@ -1,4 +1,8 @@
+<div align="center">
+  
 # Hi there 👋 I'm Abeer!
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=abeerhbadr&color=blueviolet&style=plastic)
 
