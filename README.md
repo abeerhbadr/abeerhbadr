@@ -1,9 +1,33 @@
-### Hi there 👋 I'm Abeer!
+# Hi there 👋 I'm Abeer!
 
 ![](https://komarev.com/ghpvc/?username=abeerhbadr&color=blueviolet&style=plastic)
 
+<br/>
 
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+<div align="center">
+
+<a href="https://twitter.com/abeerhbadr">
+  <img align="left" alt="Abeer | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" draggable="false" />
+</a>
+<a href="https://www.linkedin.com/in/abeer-hussein-295827192/">
+  <img align="left" alt="Abeer's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" draggable="false" />
+</a>
+<a href="https://github.com/Abeerhbadr">
+  <img align="left" alt="Abeer's github" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111432.svg" draggable="false" />
+</a>
+<a href="https://www.hackerrank.com/abeerhbadr">
+  <img align="left" alt="Abeer's hackerrank" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
+</a>
+<a href="mailto:abeer.h.badr@gmail.com">
+  <img align="left" alt="Abeer's gmail" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" draggable="false" />
+</a>
+
+</div>
+
+<br />
+<br />
+
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" draggable="false" > About me
 
 - <img src="https://github.com/abeerhbadr/abeerhbadr/blob/master/logo221.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
