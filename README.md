@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Abeer!
 
+![](https://komarev.com/ghpvc/?username=abeerhbadr&color=blueviolet&style=plastic)
+
 <!--
 **abeerhbadr/abeerhbadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
