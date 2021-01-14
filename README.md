@@ -2,6 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=abeerhbadr&color=blueviolet&style=plastic)
 
+
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
+
 <!--
 **abeerhbadr/abeerhbadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
