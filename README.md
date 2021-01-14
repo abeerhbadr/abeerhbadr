@@ -2,10 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=abeerhbadr&color=blueviolet&style=plastic)
 
-<br/>
-
-### Connect with me:
 ---
+### Connect with me:
+
 
 <div align="center">
 
@@ -30,8 +29,10 @@
 <br />
 <br />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" draggable="false" > About me
+
 ---
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" draggable="false" > About me:
+
 - <img src="https://github.com/abeerhbadr/abeerhbadr/blob/master/logo221.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
 <!--
@@ -49,7 +50,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> My Skills
+---
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> My Skills:
 
 <div align="center">
 
