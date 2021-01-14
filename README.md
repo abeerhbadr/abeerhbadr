@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+A keen-to-learn Computer Engineering Student 
+
+</div>
+
 ![](https://komarev.com/ghpvc/?username=abeerhbadr&color=blueviolet&style=plastic)
 
 #
