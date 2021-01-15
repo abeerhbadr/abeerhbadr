@@ -52,6 +52,9 @@
 
 - 🌱 I pay attention to detail
 - <img src="https://github.com/abeerhbadr/abeerhbadr/blob/main/logo221.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 🔭 I’m currently working on Web Development, Data Science and Machine Learning
+- 💬 Ask me about Databases, Algorithms and Data Structures
+- 📫 How to reach me: abeer.h.badr@gmail.com
 
 <!--
 **abeerhbadr/abeerhbadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
