@@ -45,7 +45,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" draggable="false" > About me:
 
 
-- <img src="https://github.com/Abeerhbadr/Abeerhbadr/blob/master/logo221.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- <img src="https://github.com/abeerhbadr/abeerhbadr/blob/master/logo221.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 
 <!--
 **abeerhbadr/abeerhbadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
