@@ -50,7 +50,7 @@
 #
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40" draggable="false" > About me:
 
-- 🌱 I pay attention to detail
+<!--- 🌱 I pay attention to detail -->
 - <img src="https://github.com/abeerhbadr/abeerhbadr/blob/main/logo221.png" width="25" draggable="false"> Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
 <!--- 🔭 I’m currently working on Web Development, Data Science and Machine Learning -->
 <!--- 💬 Ask me about Databases, Algorithms and Data Structures -->
