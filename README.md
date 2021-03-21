@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### A keen-to-learn Computer Engineering Student 
+### A detail-oriented Computer Engineering Student 
 
 </div>
 
