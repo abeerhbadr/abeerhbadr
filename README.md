@@ -1,14 +1,14 @@
-<div align="center">
+<!--<div align="center">-->
   
 ## Hi there I'm Abeer!
 
-</div>
+<!--</div>-->
 
-<div align="center">
+<!--<div align="center">-->
 
 ### A detail-oriented Computer Engineering Student 
 
-</div>
+<!--</div>-->
 
 <!--![](https://komarev.com/ghpvc/?username=abeerhbadr&color=blueviolet&style=plastic)-->
 
